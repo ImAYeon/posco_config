@@ -1,0 +1,6 @@
+jwt:
+  time: 90000
+  secret: hello-world1234444
+posco:
+  name: 3기5555555
+  count: 205555555

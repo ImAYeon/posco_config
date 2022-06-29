@@ -1,6 +1,6 @@
 jwt:
   time: 1000
-  secret: hello-world
+  ret: hello-posco
 posco:
-  name: "${cipher}be36399465211a544bf2b6a9f2846a19166f0f6e1c87c78a2489c7d88e6835d3"
+  name: "{cipher}be36399465211a544bf2b6a9f2846a19166f0f6e1c87c78a2489c7d88e6835d3"
   count: 20

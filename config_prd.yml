@@ -4,3 +4,8 @@ jwt:
 posco:
   name: 3235235235기
   count: 2135235235
+test:
+  datasource:
+    url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
+    username: rollin
+    password: 1234

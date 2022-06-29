@@ -8,4 +8,4 @@ test:
   datasource:
     url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
     username: rollin
-    password: 1234
+    password: "{cipher}37acba01b24a74db532855cff8787b842ee57e9a0981d11d45c408c2082eb267"

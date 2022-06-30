@@ -1,6 +1,3 @@
-jwt:
-  time: 905325235
-  secret: hello-world235235325
 posco:
   name: 3235235235기
   count: 2135235235
@@ -9,3 +6,7 @@ test:
     url: jdbc:mysql://?.?.?.?:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul
     username: rollin
     password: "{cipher}37acba01b24a74db532855cff8787b842ee57e9a0981d11d45c408c2082eb267"
+jwt:
+  secret_key: SECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEYSECRET_KEY
+  expTime: 86400000 # 3600000(1시간) * 24
+  # xpTime : 30000 # 30초
